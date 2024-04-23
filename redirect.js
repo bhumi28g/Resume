@@ -1,6 +1,6 @@
 function myfunction(){
-    window.location.href = "file:///C:/Users/Dell/OneDrive/Desktop/FEE%20Resume%20Project/builder.html"
+    window.location.href = "file:///C:/Users/Dell/OneDrive/Desktop/Resume/builder.html"
 }
 function myFunc(){
-    window.location.href = "file:///C:/Users/Dell/OneDrive/Desktop/FEE%20Resume%20Project/templates.html"
+    window.location.href = "file:///C:/Users/Dell/OneDrive/Desktop/Resume/templates.html"
 }
