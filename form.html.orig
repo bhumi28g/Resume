@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<<<<<<< HEAD
+    <title>DIYA</title>
+=======
     <title>WELCOME TO THIS SITE</title>
+>>>>>>> 2ce31350bb7fce99848634516b7bdd9b810c65cf
     <style>
         body{
             padding: 0px;
@@ -28,6 +32,7 @@
        <input type="email" id="id9" placeholder="Enter Your email" size="40"> <br><br><br><br>
        <label for="id9" style="font-size: larger;">Password:   </label>
         <input type="password" id="id9" placeholder="Enter your password(minimum 8 characters)" size="40"> <br><br><br><br>
+<<<<<<< HEAD
 
        <label for="id9" style="font-size: larger;">Confirm Password:</label>
        <input type="password" id="id9" placeholder="Confirm password" size="40"> <br><br><br><br>
@@ -38,6 +43,7 @@
         <button class="button">SUBMIT</button></center></fieldset></form>
 </body>
 </html>
+=======
       
        <label for="id9" style="font-size: larger;">Confirm Password:</label>
        <input type="password" id="id9" placeholder="Confirm password" size="40"> <br><br><br><br>
@@ -48,3 +54,4 @@
         <button class="button">SUBMIT</button></center></fieldset></form>
 </body>
 </html>
+>>>>>>> 2ce31350bb7fce99848634516b7bdd9b810c65cf
